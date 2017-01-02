@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VideoRecord</string>
+    <string name="btn_start_record">Start record</string>
+    <string name="btn_stop_record">Stop record</string>
+</resources>
